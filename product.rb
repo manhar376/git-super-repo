@@ -1,2 +1,1 @@
-that
-cool things
+that is the coolest thing ever happened.
